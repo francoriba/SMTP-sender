@@ -1,2 +1,2 @@
-Hola PERSON_NAME, este es el mensaje definido para enviar a traves del protocolo SMTP. Saludos!
+Hola, este es el mensaje definido para enviar a traves del protocolo SMTP. Saludos!
 Internautas 

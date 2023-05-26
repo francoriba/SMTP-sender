@@ -21,7 +21,7 @@ def read_template(filename):
     return Template(template_file_content)
 
 # Definimos el mail y pedimos al usuario el ingreso de la contraseña
-MY_ADDRESS = 'ribaffranco@gmail.com'
+MY_ADDRESS = 'franco.riba@mi.unc.edu.ar'
 PASSWORD = input("My password: ")
 
 names, emails = get_contacts('contacts.txt')
